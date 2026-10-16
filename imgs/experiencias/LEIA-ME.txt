@@ -1,0 +1,4 @@
+Coloque aqui as fotos dos cards de experiências:
+casamento.jpg, aniversario.jpg, cha-revelacao.jpg, day-use.jpg, retiro.jpg,
+empresas.jpg, ensaios.jpg, acampamento.jpg e visita.jpg.
+Veja o README.md na pasta principal do site.

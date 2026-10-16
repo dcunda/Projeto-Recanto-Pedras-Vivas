@@ -1,0 +1,2 @@
+Coloque aqui as fotos da galeria "O lugar" com os nomes 01.jpg a 07.jpg.
+A lista do que vai em cada uma está no README.md, na pasta principal do site.
